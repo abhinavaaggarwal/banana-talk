@@ -1,0 +1,20 @@
+#inputArea {
+  padding: 2rem;
+  margin: 0rem 2rem;
+  width: 500px;
+}
+
+#btn-click {
+  height: 2rem;
+  width: 10rem;
+  text-align: center;
+}
+
+#outputArea {
+  padding: 2rem;
+  margin: 2rem;
+  width: 500px;
+  text-align: top;
+  border: 0.5rem solid yellowgreen;
+  border-radius: 12rem;
+}
